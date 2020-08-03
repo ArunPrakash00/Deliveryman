@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "56385232150",
+    "firebase_url": "https://farmerstore-2e890.firebaseio.com",
+    "project_id": "farmerstore-2e890",
+    "storage_bucket": "farmerstore-2e890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56385232150:android:04f1d89bc693f1edf48437",
+        "android_client_info": {
+          "package_name": "com.beginnersluckstrikes.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56385232150-muu5sa3msqmp1knl9t3kskji3pc37va4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Y4IoFhOpqe9KFoynBhXecs2KVZgCFwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56385232150-muu5sa3msqmp1knl9t3kskji3pc37va4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56385232150:android:d9054f7e57a32b3bf48437",
+        "android_client_info": {
+          "package_name": "com.beginnersluckstrikes.storemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56385232150-muu5sa3msqmp1knl9t3kskji3pc37va4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Y4IoFhOpqe9KFoynBhXecs2KVZgCFwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56385232150-muu5sa3msqmp1knl9t3kskji3pc37va4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
